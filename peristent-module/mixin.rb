@@ -24,3 +24,5 @@ Maglev.persistent do
     
   end
 end
+
+Maglev.commit_transaction
